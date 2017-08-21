@@ -2,6 +2,7 @@ package yang.noobcoach;
 
 import android.app.Application;
 
+
 import yang.coach.NoobCoach;
 
 /**
@@ -15,5 +16,6 @@ public class App extends Application {
     public void onCreate() {
         super.onCreate();
         NoobCoach.startDefaultMeter(this);
+
     }
 }
