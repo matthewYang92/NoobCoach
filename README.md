@@ -16,7 +16,10 @@
 ```
 
 ## 备注
-   注意权限添加：<uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+   注意权限添加：
+   ```xml
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+   ```
    fps监控规则:
         绿：掉帧率<5%
         黄：掉帧率5%-20%
