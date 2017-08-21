@@ -20,7 +20,7 @@
    ```xml
     <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
    ```
-   fps监控规则:
-        绿：掉帧率<5%
-        黄：掉帧率5%-20%
+   fps监控规则:</br>
+        绿：掉帧率<5%</br>
+        黄：掉帧率5%-20%</br>
         红：掉帧率>20%
